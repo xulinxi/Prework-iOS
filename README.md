@@ -1,6 +1,7 @@
 # Prework-iOS
 # Pre-work - Tip Calculator
 
+
 **Tip Calculator** is a tip calculator application for iOS.
 
 Submitted by: **Linxi Xu**
@@ -11,8 +12,8 @@ Time spent: **2** hours spent in total
 
 The following **required** functionality is complete:
 
-* [-] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
-* [-] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
+* [ ] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [ ] User can select between tip percentages by tapping different values on the segmented control and the tip value is updated accordingly
 
 The following **optional** features are implemented:
 
@@ -23,15 +24,18 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
+With different "Bill Amount" put in and different percentage of the tip is chosen, the app automatically calculates the tip amount and the total cost.
+
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://i.imgur.com/KDA9mpG.gif)
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+GIF created with [ezgif](http://ezgif.com/video-to-gif).
 
 ## Notes
 
